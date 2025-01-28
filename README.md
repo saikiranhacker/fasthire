@@ -1,6 +1,6 @@
 # Project Description
 
-__SMART HIRE__ : An application made for "HackUIET" Hackathon with an aim to automate the interview process.
+__Fast HIRE__ : An application to automate the interview process.
 
 ## Objective
 
@@ -23,9 +23,6 @@ __SMART HIRE__ : An application made for "HackUIET" Hackathon with an aim to aut
      - View all the registered candidates’ details
      - View each candidate's profile summary which includes resume, responses to questions, technical skills, personality traits, video and tone analysis result.
      - Update candidate about selection/rejection, further interview process using one-click mail or phone call
-
-## Video Link
-[Project Demonstration](https://drive.google.com/drive/folders/1D5i3sphhTIIBBlRkfxhkuGK2vdK1NoXm?usp=sharing)
 
 ## Presentation Slides
 [Presentation Link](https://docs.google.com/presentation/d/1L1slU4owXQ5fTBK6zP6kCrpBuiCoABMF/edit#slide=id.p1)
@@ -55,8 +52,8 @@ Also, create an AWS Free Tier account, if you don't have it. Services like Amazo
 **Step 1. Clone the repository into a new folder and then switch to code directory**
 
 ```
-$ git clone https://github.com/gautamgc17/smart-hire
-$ cd smart-hire
+$ git clone https://github.com/saikiranhacker/fasthire
+$ cd fasthire
 ```
 
 **Step 2. Create a Virtual Environment and install Dependencies.**
