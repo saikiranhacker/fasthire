@@ -193,50 +193,10 @@ Visit http://127.0.0.1:5000 to see your app in action
 
 <br>
 
-__To know more about how to set up a flask application on Windows, MacOS or Linux, visit [here](https://phoenixnap.com/kb/install-flask#ftoc-heading-12)__
-
-<br>
 
 
-# Snapshots
 
-### Interviewee Sign Up page
 
-![signup](screenshots/firstpg.png)
-
-### Personality Prediction page
-
-![basicinfo](screenshots/pred.png)
-
-### Streaming Interview of the candidate
-
-![video-stream](screenshots/stream.png)
-
-### 'Thankyou for Taking Interview' Response page
-
-![thankyou](screenshots/thank-resp.PNG)
-
-### Interviewer Sign In page
-
-![signin](screenshots/firstpg(2).png)
-
-### Track candidates
-
-![profiles](screenshots/profiles.PNG)
-
-### Concise insights and summary of candidate profile
-
-![summary](screenshots/info.PNG)
-
-![summary](screenshots/info-2.PNG)
-
-### One-click mail to candidate
-
-![inform](screenshots/mailsent.png)
-
-### Mail to candidate
-
-![email](screenshots/email.PNG)
 
 
 
